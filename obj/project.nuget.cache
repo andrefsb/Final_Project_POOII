@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "INPK+pHaDxVTkoiO2lJcVpm6FtvDP45Rikn3LEkPnMYlY7O4v61vloKv1ReJQY4qooy8pSMbtp8spBb4j1cncg==",
+  "dgSpecHash": "n6wX+L7n2ium1XnUMbRDM3EmQzC7J6mQ8rDnzqiw8CVEhJSHjtAfBNWwpA9p49qF9jUyYPCV7Dqz9GeTiWWnfg==",
   "success": true,
-  "projectFilePath": "D:\\Programação\\LetsCode\\WebFullStack\\Modulo3\\ProjetoGrupo2\\LetsMarket\\LetsMarket.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\Top Coders\\Módulo 3\\Projeto Final\\Refatoracao_Grupo\\LetsMarket.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\leona\\.nuget\\packages\\betterconsoletables\\1.1.3\\betterconsoletables.1.1.3.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\getpass\\1.0.0\\getpass.1.0.0.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\sharprompt\\2.4.2\\sharprompt.2.4.2.nupkg.sha512",
-    "C:\\Users\\leona\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\Usuario\\.nuget\\packages\\betterconsoletables\\1.1.3\\betterconsoletables.1.1.3.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\getpass\\1.0.0\\getpass.1.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\sharprompt\\2.4.2\\sharprompt.2.4.2.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

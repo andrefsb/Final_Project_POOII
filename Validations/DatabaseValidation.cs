@@ -1,7 +1,10 @@
 ﻿using CsvHelper;
+using LetsMarket.DataBase;
+using LetsMarket.Entities;
+using LetsMarket.Faker;
 using System.Globalization;
 
-namespace LetsMarket
+namespace LetsMarket.Validations
 {
     public class DatabaseValidation : Database
     {

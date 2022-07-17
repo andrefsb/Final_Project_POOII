@@ -1,4 +1,4 @@
-namespace LetsMarket
+namespace LetsMarket.Menu
 {
     public enum BooleanType { YN, }
 }

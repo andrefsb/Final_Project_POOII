@@ -1,4 +1,6 @@
-﻿using Sharprompt;
+﻿using LetsMarket.Menu;
+using LetsMarket.Validations;
+using Sharprompt;
 
 namespace LetsMarket
 {

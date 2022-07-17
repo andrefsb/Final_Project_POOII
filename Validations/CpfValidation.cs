@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LetsMarket.DataBase;
 using Sharprompt;
 
-namespace LetsMarket
+namespace LetsMarket.Validations
 {
     public class CpfValidation
     {
@@ -24,6 +20,6 @@ namespace LetsMarket
                     Console.WriteLine($"{clientName}");
             }
         }
-     
+
     }
 }

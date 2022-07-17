@@ -86,3 +86,25 @@ D:\Programação\LetsCode\WebFullStack\Modulo3\ProjetoGrupo2\LetsMarket\bin\Debu
 D:\Programação\LetsCode\WebFullStack\Modulo3\ProjetoGrupo2\LetsMarket\obj\Debug\net6.0\LetsMarket.csproj.CopyComplete
 D:\Programação\LetsCode\WebFullStack\Modulo3\ProjetoGrupo2\LetsMarket\obj\Debug\net6.0\LetsMarket.genruntimeconfig.cache
 D:\Programação\LetsCode\WebFullStack\Modulo3\ProjetoGrupo2\LetsMarket\obj\Debug\net6.0\ref\LetsMarket.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\refint\LetsMarket.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.pdb
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\LetsMarket.exe
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\LetsMarket.deps.json
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\LetsMarket.runtimeconfig.json
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\LetsMarket.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\LetsMarket.pdb
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\BetterConsoleTables.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\Bogus.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\GetPass.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\Sharprompt.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\bin\Debug\net6.0\ja\Sharprompt.resources.dll
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.csproj.CopyComplete
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\LetsMarket.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Top Coders\Módulo 3\Projeto Final\Refatoracao_Grupo\obj\Debug\net6.0\ref\LetsMarket.dll

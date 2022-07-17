@@ -1,4 +1,7 @@
 ﻿using BetterConsoleTables;
+using LetsMarket.DataBase;
+using LetsMarket.Entities;
+using LetsMarket.Validations;
 using Sharprompt;
 
 namespace LetsMarket

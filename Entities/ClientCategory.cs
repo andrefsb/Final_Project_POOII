@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace LetsMarket
+namespace LetsMarket.Entities
 {
     public enum ClientCategory
     {
@@ -12,7 +12,7 @@ namespace LetsMarket
 
         [Display(Name = "Ouro")]
         Gold
-     
+
     }
 
 }

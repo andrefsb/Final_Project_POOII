@@ -1,6 +1,7 @@
-﻿using System.Xml.Serialization;
+﻿using LetsMarket.Entities;
+using System.Xml.Serialization;
 
-namespace LetsMarket
+namespace LetsMarket.DataBase
 {
     public class Save : Database
     {

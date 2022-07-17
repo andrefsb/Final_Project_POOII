@@ -1,9 +1,8 @@
-using Bogus;
-using CsvHelper;
-using System.Globalization;
-using System.Xml.Serialization;
+using LetsMarket.Entities;
+using LetsMarket.Validations;
 
-namespace LetsMarket
+
+namespace LetsMarket.DataBase
 {
     public enum DatabaseOption { Employees, Products, Clients }
 
@@ -26,29 +25,5 @@ namespace LetsMarket
             Load.LoadClient();
         }
 
-        public static void RemoveProduct(Product product)
-        {
-            Products.Remove(product);
-        }
-        public static void AddProduct(Product product)
-        {
-            Products.Add(product);
-        }
-        public static void RemoveEmployee(Employee employee)
-        {
-            Employees.Remove(employee);
-        }
-        public static void AddEmployee(Employee employee)
-        {
-            Employees.Add(employee);
-        }
-        public static void RemoveClient(Client client)
-        {
-            Clients.Remove(client);
-        }
-        public static void AddClient(Client client)
-        {
-            Clients.Add(client);
-        }
     }
 }

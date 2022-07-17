@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LetsMarket.Entities;
 using Sharprompt;
 
-namespace LetsMarket
+namespace LetsMarket.Validations
 {
     public class ProductValidation
     {
-        public static decimal ValidateProduct(Product exit, Product closeSale, Product cancelItem, List<Product> products, List<Sale>saleItems, decimal total, Product product)
+        public static decimal ValidateProduct(Product exit, Product closeSale, Product cancelItem, List<Product> products, List<Sale> saleItems, decimal total, Product product)
         {
-            
+
             if (product != exit && product != closeSale && product != cancelItem)
             {
                 var amount = Prompt.Input<int>("Informe a quantidade", defaultValue: 1);

@@ -254,19 +254,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\leona\\.nuget\\packages\\": {}
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programação\\LetsCode\\WebFullStack\\Modulo3\\ProjetoGrupo2\\LetsMarket\\LetsMarket.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\Top Coders\\Módulo 3\\Projeto Final\\Refatoracao_Grupo\\LetsMarket.csproj",
       "projectName": "LetsMarket",
-      "projectPath": "D:\\Programação\\LetsCode\\WebFullStack\\Modulo3\\ProjetoGrupo2\\LetsMarket\\LetsMarket.csproj",
-      "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
-      "outputPath": "D:\\Programação\\LetsCode\\WebFullStack\\Modulo3\\ProjetoGrupo2\\LetsMarket\\obj\\",
+      "projectPath": "C:\\Users\\Usuario\\source\\repos\\Top Coders\\Módulo 3\\Projeto Final\\Refatoracao_Grupo\\LetsMarket.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Usuario\\source\\repos\\Top Coders\\Módulo 3\\Projeto Final\\Refatoracao_Grupo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

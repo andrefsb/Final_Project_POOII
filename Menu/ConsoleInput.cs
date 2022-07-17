@@ -1,11 +1,6 @@
 using GetPass;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LetsMarket
+namespace LetsMarket.Menu
 {
     public static class ConsoleInput
     {
@@ -33,7 +28,7 @@ namespace LetsMarket
         }
 
         public static string GetPassword(string prompt)
-        { 
+        {
             var password = ConsolePasswordReader.Read($"{prompt}: ");
             return password;
         }
@@ -53,7 +48,7 @@ namespace LetsMarket
             {
                 if (input.ToLower() == "s")
                     input = "true";
-                else 
+                else
                     input = "false";
             }
 
